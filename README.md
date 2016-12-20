@@ -1,0 +1,2 @@
+# ApmathBakytbekCloud
+Azure Bakytbek App
